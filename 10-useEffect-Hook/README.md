@@ -2,3 +2,7 @@
 
 # `useEffect()` and `useState()` hooks we have used in the `DownloadData.jsx` fale.
 
+# Starting Script :---
+```bash
+npm run dev
+```
